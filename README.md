@@ -6,6 +6,7 @@ This is my Jupyter Notebook for the Kaggle Competition: Tabular Playground Serie
 The dataset is used for this competition is synthetic but based on a real dataset (in this case, the actual Titanic data!) and generated using a CTGAN. The statistical properties of this dataset are very similar to the original Titanic dataset, but there's no way to "cheat" by using public labels for predictions.
 
 Type: Binary Classification
+
 Evaluation Metric: Accuracy
 
 <b>My notebook contains the following steps:</b>
